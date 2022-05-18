@@ -4,7 +4,7 @@
 - This Dataset contains survey data about mental health, completed by people working in Tech Industry
 - Used skills:- EDA, Data Analysis & Visualization, and Machine Learning for predicting seeking of 'treatment'
 - about_data.png : Provides info on the variables
-- NOTE: Some plots are made using Plotly, thus will only be visible when actually running the notebook on
+- __NOTE__: Some plots are made using Plotly, thus will only be visible when actually running the notebook on
 the machine. These plots will not be visible on github notebook viewing.
 
 **Implementation**

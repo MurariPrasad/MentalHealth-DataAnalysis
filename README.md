@@ -17,17 +17,11 @@ analysis.
 treatment was seeked.
 
 **Results**
-Best parameters : 
-	log_reg__C = 0.01
-	log_reg__penalty = l2
-	log_reg__solver = 'newton-cg'
-Accuracy : 77.38%
-Classification stats :
-               precision    recall  f1-score   support
-
-           0       0.74      0.77      0.76       114
-           1       0.80      0.78      0.79       138
-
+- Best parameters : 
+- - log_reg__C = 0.01
+- -	log_reg__penalty = l2
+- -	log_reg__solver = 'newton-cg'
+- Accuracy : 77.38%
 
 **References**
  

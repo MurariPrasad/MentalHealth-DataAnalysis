@@ -23,7 +23,6 @@ treatment was seeked.
 - - log_reg__C = 0.01
 - -	log_reg__penalty = l2
 - -	log_reg__solver = 'newton-cg'
-- Accuracy : 77.38%
 
 **References**
  

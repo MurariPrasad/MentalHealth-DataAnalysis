@@ -1,4 +1,4 @@
-## Mental Health in Tech Survey - Data Analysis, Visualization, Machine Learning Predictory Analysis
+## Mental Health in Tech Survey - Data Analysis, Visualization, Machine Learning Prediction Analysis
 
 **About**
 - This Dataset contains survey data about mental health, completed by people working in Tech Industry
